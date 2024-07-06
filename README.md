@@ -5,17 +5,17 @@ This is a Binary Tree Visualizer built using React and D3.js. It allows users to
 ## To run the application
 
 1. Clone the repository:
-``` bash
-    git clone https://github.com/yourusername/binary-tree-visualizer.git
-    cd binary-tree-visualizer
+```bash
+git clone https://github.com/yourusername/binary-tree-visualizer.git
+cd binary-tree-visualizer
 
 2. Install dependencies:
-``` bash
-    npm install
+```bash
+npm install
 
 3. Start the server
-``` bash
-    npm start
-```
+```bash
+npm start
 
-Click on a nodes to create child nodes and run one of the  traversal algorithms.
+
+Click on a node to create child nodes and run one of the  traversal algorithms.
